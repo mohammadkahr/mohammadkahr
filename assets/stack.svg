@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="35" viewBox="0 0 860 35" role="img" aria-label="Stack: python, pytorch, scikit-learn, langchain, flask, django, nginx, linux">
+<title>Stack: python, pytorch, scikit-learn, langchain, flask, django, nginx, linux</title>
+<style>
+  .fg{fill:#1f2328} .mu{fill:#656d76} .ac{fill:#4f46e5} .acs{stroke:#4f46e5}
+  .card{fill:#ffffff;stroke:#d0d7de} .ln{stroke:#d0d7de}
+  .sans{font-family:ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace}
+  @media (prefers-color-scheme: dark) {
+    .fg{fill:#e6edf3} .mu{fill:#8b949e} .ac{fill:#818cf8} .acs{stroke:#818cf8}
+    .card{fill:#0d1117;stroke:#30363d} .ln{stroke:#30363d}
+  }
+</style>
+<rect x="0.5" y="0.5" width="73.6" height="33" rx="16.5" class="card" stroke-width="1"/><text x="37.3" y="21.5" class="mono fg" font-size="12.5" text-anchor="middle">python</text><rect x="84.1" y="0.5" width="81.19999999999999" height="33" rx="16.5" class="card" stroke-width="1"/><text x="124.69999999999999" y="21.5" class="mono fg" font-size="12.5" text-anchor="middle">pytorch</text><rect x="175.29999999999998" y="0.5" width="119.19999999999999" height="33" rx="16.5" class="card" stroke-width="1"/><text x="234.89999999999998" y="21.5" class="mono fg" font-size="12.5" text-anchor="middle">scikit-learn</text><rect x="304.5" y="0.5" width="96.39999999999999" height="33" rx="16.5" class="card" stroke-width="1"/><text x="352.7" y="21.5" class="mono fg" font-size="12.5" text-anchor="middle">langchain</text><rect x="410.9" y="0.5" width="66.0" height="33" rx="16.5" class="card" stroke-width="1"/><text x="443.9" y="21.5" class="mono fg" font-size="12.5" text-anchor="middle">flask</text><rect x="486.9" y="0.5" width="73.6" height="33" rx="16.5" class="card" stroke-width="1"/><text x="523.6999999999999" y="21.5" class="mono fg" font-size="12.5" text-anchor="middle">django</text><rect x="570.5" y="0.5" width="66.0" height="33" rx="16.5" class="card" stroke-width="1"/><text x="603.5" y="21.5" class="mono fg" font-size="12.5" text-anchor="middle">nginx</text><rect x="646.5" y="0.5" width="66.0" height="33" rx="16.5" class="card" stroke-width="1"/><text x="679.5" y="21.5" class="mono fg" font-size="12.5" text-anchor="middle">linux</text>
+</svg>

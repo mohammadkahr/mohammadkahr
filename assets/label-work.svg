@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="34" viewBox="0 0 860 34" role="img" aria-label="Selected Work">
+<title>Selected Work</title>
+<style>
+  .fg{fill:#1f2328} .mu{fill:#656d76} .ac{fill:#4f46e5} .acs{stroke:#4f46e5}
+  .card{fill:#ffffff;stroke:#d0d7de} .ln{stroke:#d0d7de}
+  .sans{font-family:ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace}
+  @media (prefers-color-scheme: dark) {
+    .fg{fill:#e6edf3} .mu{fill:#8b949e} .ac{fill:#818cf8} .acs{stroke:#818cf8}
+    .card{fill:#0d1117;stroke:#30363d} .ln{stroke:#30363d}
+  }
+</style>
+<text x="0" y="22" class="mono ac" font-size="12.5" letter-spacing="2">02</text>
+<text x="34" y="22" class="mono fg" font-size="12.5" letter-spacing="2">SELECTED WORK</text>
+<line x1="169.6" y1="18" x2="860" y2="18" class="ln" stroke-width="1"/>
+</svg>

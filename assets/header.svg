@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="214" viewBox="0 0 860 214" role="img" aria-label="Mohammad Kazem Harandi — AI and LLM Specialist">
+<title>Mohammad Kazem Harandi — AI and LLM Specialist</title>
+<style>
+  .fg{fill:#1f2328} .mu{fill:#656d76} .ac{fill:#4f46e5} .acs{stroke:#4f46e5}
+  .card{fill:#ffffff;stroke:#d0d7de} .ln{stroke:#d0d7de}
+  .sans{font-family:ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace}
+  @media (prefers-color-scheme: dark) {
+    .fg{fill:#e6edf3} .mu{fill:#8b949e} .ac{fill:#818cf8} .acs{stroke:#818cf8}
+    .card{fill:#0d1117;stroke:#30363d} .ln{stroke:#30363d}
+  }
+</style>
+
+<g transform="translate(0,24)">
+  <text x="0" y="20" class="mono ac" font-size="13" letter-spacing="2">AI · LLM SPECIALIST</text>
+  <text x="0" y="78" class="sans fg" font-size="46" font-weight="600" letter-spacing="-1.5">Mohammad Kazem Harandi</text>
+  <text x="0" y="114" class="sans mu" font-size="19">Building LLM systems that explain themselves.</text>
+  <line x1="0" y1="148" x2="860" y2="148" class="ln" stroke-width="1"/>
+  <text x="0" y="176" class="mono mu" font-size="12.5" letter-spacing="0.5">M.Sc. Information Technology  ·  University of Isfahan  ·  Isfahan, IR</text>
+</g>
+<g transform="translate(0,30)" opacity="0.9"><line x1="640" y1="70" x2="700" y2="40" class="ln" stroke-width="1"/><line x1="640" y1="70" x2="700" y2="100" class="ln" stroke-width="1"/><line x1="700" y1="40" x2="760" y2="70" class="ln" stroke-width="1"/><line x1="700" y1="100" x2="760" y2="70" class="ln" stroke-width="1"/><line x1="760" y1="70" x2="820" y2="40" class="ln" stroke-width="1"/><line x1="760" y1="70" x2="820" y2="100" class="ln" stroke-width="1"/><line x1="700" y1="40" x2="700" y2="100" class="ln" stroke-width="1"/><circle cx="640" cy="70" r="4" class="ac">
+  <animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="700" cy="40" r="4" class="ac">
+  <animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="0.4s" repeatCount="indefinite"/></circle><circle cx="700" cy="100" r="4" class="ac">
+  <animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="0.8s" repeatCount="indefinite"/></circle><circle cx="760" cy="70" r="4" class="ac">
+  <animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="1.2000000000000002s" repeatCount="indefinite"/></circle><circle cx="820" cy="40" r="4" class="ac">
+  <animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="1.6s" repeatCount="indefinite"/></circle><circle cx="820" cy="100" r="4" class="ac">
+  <animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="2.0s" repeatCount="indefinite"/></circle></g>
+
+</svg>

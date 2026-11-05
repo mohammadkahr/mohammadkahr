@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180" role="img" aria-label="ClickChef: SEO and conversion-driven landing pages for a restaurant SaaS MVP.">
+<title>ClickChef: SEO and conversion-driven landing pages for a restaurant SaaS MVP.</title>
+<style>
+  .fg{fill:#1f2328} .mu{fill:#656d76} .ac{fill:#4f46e5} .acs{stroke:#4f46e5}
+  .card{fill:#ffffff;stroke:#d0d7de} .ln{stroke:#d0d7de}
+  .sans{font-family:ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace}
+  @media (prefers-color-scheme: dark) {
+    .fg{fill:#e6edf3} .mu{fill:#8b949e} .ac{fill:#818cf8} .acs{stroke:#818cf8}
+    .card{fill:#0d1117;stroke:#30363d} .ln{stroke:#30363d}
+  }
+</style>
+
+<rect x="0.5" y="0.5" width="419" height="179" rx="14" class="card" stroke-width="1"/>
+<text x="26" y="40" class="mono ac" font-size="11.5" letter-spacing="1.5">E-COMMERCE</text>
+<text x="394" y="42" class="sans mu" font-size="17" text-anchor="end">↗</text>
+<text x="26" y="74" class="sans fg" font-size="21" font-weight="600" letter-spacing="-0.4">ClickChef</text>
+<text x="26" y="102" class="sans mu" font-size="13.5">SEO and conversion-driven landing</text>
+<text x="26" y="122" class="sans mu" font-size="13.5">pages for a restaurant SaaS MVP.</text>
+<text x="26" y="156" class="mono mu" font-size="11.5" opacity="0.8">seo / cro / ux</text>
+
+</svg>
