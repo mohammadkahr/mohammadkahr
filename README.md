@@ -1,8 +1,7 @@
 <img src="assets/header.svg" width="100%" alt="Mohammad Kazem Harandi — AI and LLM Specialist"/>
 <p>
   <a href="https://www.linkedin.com/in/mohammad-kazem-harandi">LinkedIn</a>&ensp;·&ensp;
-  <a href="https://scholar.google.com/citations?user=20FcfowAAAAJ">Google Scholar</a>&ensp;·&ensp;
-  <a href="mailto:harandi.mohamma@gmail.com">harandi.mohamma@gmail.com</a>
+  <a href="https://scholar.google.com/citations?user=20FcfowAAAAJ">Google Scholar</a>
 </p>
 <br/>
 <img src="assets/label-research.svg" width="100%" alt="01 Research"/>
